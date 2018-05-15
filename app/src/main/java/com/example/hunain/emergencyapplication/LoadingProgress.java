@@ -13,7 +13,7 @@ import java.util.Timer;
 /**
  * Created by hunain on 1/27/2018.
  */
-//Muneebb..
+//Hello
 public class LoadingProgress {
     ProgressBar p;
     Activity activity;
