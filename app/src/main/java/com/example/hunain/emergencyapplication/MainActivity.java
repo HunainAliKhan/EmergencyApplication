@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         start.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v)
             {
-                Intent i = new Intent(MainActivity.this, LoginActivity.class);
+                Intent i = new Intent(MainActivity.this, FeedbackActivity.class);
                 startActivity(i);
                // ActivityOptions options = ActivityOptions.makeCustomAnimation(MainActivity.this,R.anim.fade_in,R.anim.fade_out);
                 overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
