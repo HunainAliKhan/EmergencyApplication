@@ -50,7 +50,7 @@
 
     <string name="google_map_directionApi">AIzaSyCUr5_F06mLfbh6Buq4OzNjxH83EN3DUEU</string>
 
-    <string name="rate_your_experience">Rate Your Experience</string>
-    <string name="share_your_experience_or_any_suggestion">Share your experience or Any suggestion...</string>
-    <string name="rate_the_driving">Rate the Driving</string>
+    <string name="rate_your_experience">Rate your Driver</string>
+    <string name="share_your_experience_or_any_suggestion">Share your experience or Any issue..</string>
+    <string name="rate_the_driving">Rate Your Experience.</string>
 </resources>
